@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-##   Задания Модуля 2
-=======
 #   Задания Модуля 2
-
-
-
+---
 ## 2.3. Подключение к Базам Данных и SQL
 1. _Устанавливаем PostgreSQL 17 и клиент DBeaver для подключения к БД._
 2. *Создаем три таблицы и загружаем данные c помощью запросов в DBeaver*
@@ -41,4 +36,3 @@ _Генерируем SQL-запросы --> DDL. Выполняем в SQL кл
 _Заполняем Dimensions и Sales_fact._
 
 [Create script_datamodeling_DDL.sql](https://github.com/tangokarimoff/datalearn/blob/3ac01fcb34dc3adc4ccf122f8b56e537f8a5978a/de101/Module02/script_datamodeling_DDL)- файл со скриптом.
->>>>>>> 868acf2908a4a507fc50aee01e5f57e7c03df966
