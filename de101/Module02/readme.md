@@ -3,11 +3,13 @@
 
 
 ## 2.3. Подключение к Базам Данных и SQL
-+ Устанавливаем PostgreSQL 17 и клиент DBeaver для подключения к БД.
-+ Создаем три таблицы и загружаем данные c помощью запросов в DBeaver, скрипты:
-[script_table_orders.sql](https://github.com/tangokarimoff/datalearn/blob/a4cb128b366045d952945a28b1c95f94241d3f13/de101/Module02/script_table_orders), 
-[script_table_people.sql](https://github.com/tangokarimoff/datalearn/blob/a4cb128b366045d952945a28b1c95f94241d3f13/de101/Module02/script_table_people), 
-[script_table_returns.sql](https://github.com/tangokarimoff/datalearn/blob/a4cb128b366045d952945a28b1c95f94241d3f13/de101/Module02/script_table_returns)
+1. _Устанавливаем PostgreSQL 17 и клиент DBeaver для подключения к БД._
+2. *Создаем три таблицы и загружаем данные c помощью запросов в DBeaver*
+     
+**Cкрипты загрузки данных:**
+  + [script_table_orders.sql](https://github.com/tangokarimoff/datalearn/blob/a4cb128b366045d952945a28b1c95f94241d3f13/de101/Module02/script_table_orders), 
+  + [script_table_people.sql](https://github.com/tangokarimoff/datalearn/blob/a4cb128b366045d952945a28b1c95f94241d3f13/de101/Module02/script_table_people), 
+  + [script_table_returns.sql](https://github.com/tangokarimoff/datalearn/blob/a4cb128b366045d952945a28b1c95f94241d3f13/de101/Module02/script_table_returns)
 ---
 ## 2.4. Модель данных.
 Задача создать модель данных для файла с данными [superstore.xls](https://github.com/tangokarimoff/datalearn/blob/81f351348549390229ce3b9c37c159f4cd222584/de101/Module02/Superstore.xls).
