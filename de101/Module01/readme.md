@@ -2,7 +2,7 @@
 ---
 ## 1.1 Архитектура аналитического решения
 
-![](https://github.com/tangokarimoff/datalearn/blob/main/de101\Module01\pics\data_model.JPG)
+![](https://github.com/tangokarimoff/datalearn/blob/main/de101/Module01/pics/data_model.JPG)
 ---
 ## 1.2. Аналитика в Excel
 
