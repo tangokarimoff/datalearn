@@ -1,7 +1,8 @@
 #   Задания Модуля 1
 ---
 ## 1.1 Архитектура аналитического решения
-To be filled
+
+![](https://github.com/tangokarimoff/datalearn/blob/main/de101\Module01\pics\data_model.JPG)
 ---
 ## 1.2. Аналитика в Excel
 
